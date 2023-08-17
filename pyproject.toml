@@ -39,6 +39,7 @@ format = ["lightningcss>=0.1.1"]
 cq = [
     "anchovy_css[format]",
     "pylint",
+    "pyright",
     "pytest",
     "pytest-cov",
 ]
