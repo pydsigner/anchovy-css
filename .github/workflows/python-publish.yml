@@ -13,7 +13,10 @@ on:
     types: [published]
 
 permissions:
+  # Required for actions/checkout
   contents: read
+  # Required for OIDC authentication to PyPI
+  id-token: write
 
 jobs:
   deploy:
