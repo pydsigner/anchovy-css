@@ -1,0 +1,16 @@
+p {
+    color: #fff;
+    a {
+        color: plum;
+    }
+    > .red {
+        color: red;
+        background-color: darkred;
+    }
+    > b {
+        font-style: bold;
+    }
+    .orange, #banner, h5 {
+        color: orange;
+    }
+}

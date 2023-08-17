@@ -1,0 +1,9 @@
+a {
+color: blue;
+}
+a.bright {
+color: aqua;
+}
+a .dull {
+color: navy;
+}

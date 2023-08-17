@@ -1,0 +1,22 @@
+p {
+color: #fff;
+}
+p a {
+color: plum;
+}
+p > .red {
+color: red;
+background-color: darkred;
+}
+p > b {
+font-style: bold;
+}
+p .orange {
+color: orange;
+}
+p #banner {
+color: orange;
+}
+p h5 {
+color: orange;
+}

@@ -1,0 +1,15 @@
+p {
+color: white;
+}
+p a {
+color: teal;
+}
+@media (max-width: 1000px) {
+p {
+width:10px;
+height: 10px;
+}
+p span {
+margin: 0;
+}
+}
